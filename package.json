@@ -1,6 +1,5 @@
 {
-  "homepage": "https://maheshkokate07.github.io/pokedex",
-  "name": "pokedex",
+ "name": "pokedex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,12 +16,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "npm run start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
